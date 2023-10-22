@@ -1,7 +1,7 @@
-package com.xbook.user.service;
+package com.book.user.service;
 
 import com.github.pagehelper.PageInfo;
-import com.xbook.entity.user.Shipping;
+import com.book.entity.user.Shipping;
 
 import java.util.Map;
 

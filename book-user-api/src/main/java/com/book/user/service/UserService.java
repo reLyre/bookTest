@@ -1,8 +1,8 @@
-package com.xbook.user.service;
+package com.book.user.service;
 
 
-import com.xbook.common.core.Result;
-import com.xbook.entity.user.User;
+import com.book.common.core.Result;
+import com.book.entity.user.User;
 
 public interface UserService {
 

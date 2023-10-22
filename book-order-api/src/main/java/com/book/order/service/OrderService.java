@@ -1,8 +1,8 @@
-package com.xbook.order.service;
+package com.book.order.service;
 
 import com.github.pagehelper.PageInfo;
-import com.xbook.entity.order.OrderProductVo;
-import com.xbook.entity.order.OrderVo;
+import com.book.entity.order.OrderProductVo;
+import com.book.entity.order.OrderVo;
 
 public interface OrderService {
 

@@ -1,6 +1,6 @@
-package com.xbook.cart.service;
+package com.book.cart.service;
 
-import com.xbook.entity.cart.CartVo;
+import com.book.entity.cart.CartVo;
 
 public interface CartService {
 

@@ -1,8 +1,8 @@
-package com.xbook.product.service;
+package com.book.product.service;
 
 
 import com.github.pagehelper.PageInfo;
-import com.xbook.entity.product.ProductDetail;
+import com.book.entity.product.ProductDetail;
 
 import java.util.List;
 

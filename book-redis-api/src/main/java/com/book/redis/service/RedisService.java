@@ -1,6 +1,6 @@
-package com.xbook.redis.service;
+package com.book.redis.service;
 
-import com.xbook.common.redis.KeyPrefix;
+import com.book.common.redis.KeyPrefix;
 
 public interface RedisService {
 
